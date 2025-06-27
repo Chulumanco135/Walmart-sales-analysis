@@ -77,5 +77,7 @@ Walmart can target underperforming stores for improvement by analyzing practices
 
 This project concluded that weekly sales at Walmart stores are influenced more by internal and seasonal factors than by external economic indicators
 
+
+https://docs.google.com/document/d/1Z9GcPDWhTIVwQd_0FQmHPZ6bptvLpzQM/edit?usp=sharing&ouid=103479920004238899821&rtpof=true&sd=true
 ✅ File the whole project on
 https://ahead-thing-2a1.notion.site/Walmart-online-project-1fa889a606d2805daed6dc2c12181476
