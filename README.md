@@ -76,6 +76,7 @@ As seen in the bar chart of average weekly sales by store, some stores (e.g., St
 Walmart can target underperforming stores for improvement by analyzing practices of top stores. Strong holiday sales support seasonal marketing and staffing strategies. Because economic variables were weak predictors, future studies should include store-specific, promotion, and customer behavior data. A better predictive model would use machine learning or time series forecasting with additional features.
 
 This project concluded that weekly sales at Walmart stores are influenced more by internal and seasonal factors than by external economic indicators
+
 ✅ Walmart dataset
 https://drive.google.com/file/d/1asjyh5D5ubLYkJFgiB7Ai_b-JdNICeE6/view?usp=sharing
 
