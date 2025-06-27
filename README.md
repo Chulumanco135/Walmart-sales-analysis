@@ -68,7 +68,7 @@ Data Cleaning and Preparation
 •	Boxplots: Sales distribution during holiday vs non-holiday weeks
 •	Scatter plots: Relationship between sales and economic indicators
 
-Conclusion
+#Conclusion
 
 This chapter provides a final interpretation and conclusion based on the analysis conducted in the project. The study aimed to compare Walmart store sales, assess the impact of holidays, and explore the influence of economic factors using real weekly sales data.
 
