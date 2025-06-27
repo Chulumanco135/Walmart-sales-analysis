@@ -68,4 +68,4 @@ Data Cleaning and Preparation
 •	Boxplots: Sales distribution during holiday vs non-holiday weeks
 •	Scatter plots: Relationship between sales and economic indicators
 
-![Sales Plot](plot1.png)
+Plot1.png
