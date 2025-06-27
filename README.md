@@ -83,5 +83,5 @@ https://drive.google.com/file/d/1asjyh5D5ubLYkJFgiB7Ai_b-JdNICeE6/view?usp=shari
 ✅ Codes and graphs 
 https://docs.google.com/document/d/1Z9GcPDWhTIVwQd_0FQmHPZ6bptvLpzQM/edit?usp=sharing&ouid=103479920004238899821&rtpof=true&sd=true
 
-✅ File the whole project on
+✅ Find the whole project on
 https://ahead-thing-2a1.notion.site/Walmart-online-project-1fa889a606d2805daed6dc2c12181476
