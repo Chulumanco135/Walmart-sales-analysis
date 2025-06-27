@@ -67,3 +67,5 @@ Data Cleaning and Preparation
 •	Bar charts: Store-wise average sales
 •	Boxplots: Sales distribution during holiday vs non-holiday weeks
 •	Scatter plots: Relationship between sales and economic indicators
+
+![Sales Plot](plot1.png)
