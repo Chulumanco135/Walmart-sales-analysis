@@ -68,3 +68,14 @@ Data Cleaning and Preparation
 •	Boxplots: Sales distribution during holiday vs non-holiday weeks
 •	Scatter plots: Relationship between sales and economic indicators
 
+Conclusion
+
+This chapter provides a final interpretation and conclusion based on the analysis conducted in the project. The study aimed to compare Walmart store sales, assess the impact of holidays, and explore the influence of economic factors using real weekly sales data.
+
+As seen in the bar chart of average weekly sales by store, some stores (e.g., Store 20, Store 4) consistently outperform others, suggesting operational, geographic, or demographic advantages. This offers Walmart an opportunity to benchmark best practices and support underperforming stores. The boxplot comparing holiday vs non-holiday weeks showed that holiday weeks tend to have higher sales, but also more variability. This confirms that holidays are a key sales driver, but Walmart should improve consistency in how stores capitalize on peak periods. Correlation and regression results showed that economic variables like Fuel Price, CPI, and Unemployment have only weak negative correlations with Weekly Sales. The linear regression model had an R-squared value of only 0.024, meaning only 2.4% of the variation in sales was explained by these variables. This suggests that internal factors (e.g., promotions, store layout, customer service) and external ones (e.g., regional events, demographics) may have a greater influence on weekly sales. The line graph of weekly sales over time revealed clear seasonal trends, especially around year-end holidays. Sales peaks occur regularly, which provides strong justification for using time-based models (e.g., time series forecasting) in future analysis.
+Walmart can target underperforming stores for improvement by analyzing practices of top stores. Strong holiday sales support seasonal marketing and staffing strategies. Because economic variables were weak predictors, future studies should include store-specific, promotion, and customer behavior data. A better predictive model would use machine learning or time series forecasting with additional features.
+
+This project concluded that weekly sales at Walmart stores are influenced more by internal and seasonal factors than by external economic indicators
+
+✅ File the whole project on
+https://ahead-thing-2a1.notion.site/Walmart-online-project-1fa889a606d2805daed6dc2c12181476
