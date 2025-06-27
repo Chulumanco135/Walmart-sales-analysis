@@ -71,5 +71,4 @@ Data Cleaning and Preparation
 📂 Data Used
 
 
-
-- [Download the sales data](data/Walmart_Sales)
+[Download the sales data](data/sales_data.csv)
