@@ -68,4 +68,8 @@ Data Cleaning and Preparation
 •	Boxplots: Sales distribution during holiday vs non-holiday weeks
 •	Scatter plots: Relationship between sales and economic indicators
 
-Plot1.png
+📂 Data Used
+
+
+
+- [Download the sales data](data/Walmart_Sales)
